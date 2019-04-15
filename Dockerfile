@@ -1,6 +1,6 @@
 FROM debian:stretch-slim 
 
-ARG CONFLUENCE_VERSION=6.5.2
+ARG CONFLUENCE_VERSION=5.7.4
 
 WORKDIR /root/
 
